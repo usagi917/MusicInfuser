@@ -64,3 +64,19 @@ For evaluating the model using Visual Language Models:
 
 1. Follow the instructions in `vlm_eval/README.md` to set up the VideoLLaMA2 evaluation framework
 2. It is recommended to use a separate environment from MusicInfuser for the evaluation
+
+
+## Citation
+
+```bibtex
+@article{TBD}
+```
+
+## Acknowledgements
+
+This code builds upon the following repositories:
+- [Mochi](https://github.com/genmoai/mochi)
+- [VideoLLaMA2](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
+- [VideoChat2](https://github.com/OpenGVLab/Ask-Anything)
+
+We thank the authors for open-sourcing their code and models.
