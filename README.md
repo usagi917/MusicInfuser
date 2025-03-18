@@ -76,9 +76,9 @@ For evaluating the model using Visual Language Models:
 
 ## Acknowledgements
 
-This code builds upon the following repositories:
+This code builds upon the following awesome repositories:
 - [Mochi](https://github.com/genmoai/mochi)
 - [VideoLLaMA2](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
 - [VideoChat2](https://github.com/OpenGVLab/Ask-Anything)
 
-We thank the authors for open-sourcing their code and models.
+We thank the authors for open-sourcing their code and models, which made this work possible.
