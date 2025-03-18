@@ -389,7 +389,7 @@ def main():
     parser.add_argument('--hd-num', type=int, default=12, help='HD transformation number')
     parser.add_argument('--resolution', type=int, default=224, help='Target resolution')
     parser.add_argument('--num-frame', type=int, default=16, help='Number of frames')
-    parser.add_argument('--gpus', type=int, nargs='+', default=[0, 1], help='GPU IDs to use')
+    parser.add_argument('--gpus', type=int, nargs='+', default=[0], help='GPU IDs to use')
     args = parser.parse_args()
 
     video_files = [
