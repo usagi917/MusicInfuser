@@ -2,7 +2,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://susunghong.github.io/MusicInfuser/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)]()
 
-MusicInfuser adapts existing text-to-video diffusion models to align with music, generating dance videos according to the music and text prompts.
+MusicInfuser adapts a text-to-video diffusion model to align with music, generating dance videos according to the music and text prompts.
 
 ## Requirements
 
