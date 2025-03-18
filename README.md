@@ -29,7 +29,9 @@ python ./music_infuser/download_weights.py weights/
 ## Inference
 To generate videos from music inputs:
 ```bash
-python inference.py --input-file {MP3 or MP4 to extract audio from} --prompt {prompt} --num-frames {number of frames}
+python inference.py --input-file {MP3 or MP4 to extract audio from} \
+                    --prompt {prompt} \
+                    --num-frames {number of frames}
 ```
 
 with the following arguments:
