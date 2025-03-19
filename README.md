@@ -71,7 +71,12 @@ For evaluating the model using Visual Language Models:
 ## Citation
 
 ```bibtex
-@article{TBD}
+@article{hong2025musicinfuser,
+  title={MusicInfuser: Making Video Diffusion Listen and Dance},
+  author={Hong, Susung and Kemelmacher-Shlizerman, Ira and Curless, Brian and Seitz, Steven M},
+  journal={arXiv preprint arXiv:2503.14505},
+  year={2025}
+}
 ```
 
 ## Acknowledgements
